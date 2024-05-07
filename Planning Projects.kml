@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Ja24VC2W-JFPB3iE6vjiVpo-98E">
+	<name>Planning Projects</name>
+	<description>Development projects in the City of San Mateo.  
+http://www.cityofsanmateo.org/whatshappening</description>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="str:bmFtZQ==">
+			<displayName>name</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="str:ZGVzY3JpcHRpb24=">
+			<displayName>description</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_2D1B70E3533086A2860C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff1b97f8</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff1b97f8</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff1b97f8</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B0C6A57713086A2860C">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff1b97f8</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff1b97f8</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff1b97f8</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_217504DDA03086A28608">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff1b97f8</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff1b97f8</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c1b97f8</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1446C0D4433086A28608">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff1b97f8</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff1b97f8</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c1b97f8</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_074A52BAD93086A28602">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff579d00</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff579d00</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c579d00</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0727E0B9CF3086A28601">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10110E7A973086A28601</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_074A52BAD93086A28602</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_07A0A78E463086A285FD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BE7E240533086A285FD</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BBFB0E2843086A285FE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_10110E7A973086A28601">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff579d00</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff579d00</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c579d00</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_00E7D55E6F3086A285F9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff37ebf4</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff37ebf4</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c37ebf4</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_29F44B4BC23086A285FB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff39dccd</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff39dccd</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c39dccd</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BE7E240533086A285FD">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ffa95b3f</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa95b3f</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4ca95b3f</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05934FA2A23086A285F0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_196D0B78B83086A285F0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F42248C4F3086A285F1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_11FF8AFF343086A285F8">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff37ebf4</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff37ebf4</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c37ebf4</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03EE9784FA3086A2860C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B0C6A57713086A2860C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D1B70E3533086A2860C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0F42248C4F3086A285F1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff3644db</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3644db</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c3644db</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02D04D57AF3086A285FB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_168183CBD93086A285FB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29F44B4BC23086A285FB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1C9652AF433086A285F7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ffa6f7f9</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa6f7f9</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4ca6f7f9</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10E23D569A3086A285EA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_22E55FD1663086A285F7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ffa6f7f9</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa6f7f9</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4ca6f7f9</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_168183CBD93086A285FB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff39dccd</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff39dccd</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c39dccd</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_062546175C3086A285F7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C9652AF433086A285F7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22E55FD1663086A285F7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_06644D70603086A285F8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11FF8AFF343086A285F8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_00E7D55E6F3086A285F9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0B8BC36A6E3086A285EB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10AEA40C3A3086A285F4">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff0051e6</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff0051e6</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d0051e6</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E6B60CB893086A285F3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0A6FF9FBC53086A285F4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_10AEA40C3A3086A285F4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_057CE99B9D3086A28608">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1446C0D4433086A28608</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_217504DDA03086A28608</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_196D0B78B83086A285F0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff3644db</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3644db</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4c3644db</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0A6FF9FBC53086A285F4">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ff0051e6</color>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff0051e6</color>
+				<width>1.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4d0051e6</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0BBFB0E2843086A285FE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<color>ffa95b3f</color>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?id=503&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa95b3f</color>
+				<width>1.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4ca95b3f</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07805196193086A285EA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10E23D569A3086A285EA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B8BC36A6E3086A285EB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="6653134f_0">
+		<name>Planning Pre-Applications</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+		<Placemark id="6653134f_4BB24BD3F6314F49">
+			<name>223 S. Humboldt St. Apartments – SB 35 Ministerial Review</name>
+			<description><![CDATA[<div><b>name</b>: 223 S. Humboldt St. Apartments – SB 35 Ministerial Review</div><div><b>description</b>: This project includes a proposal to demolish an existing single-family residence and attached single-car garage to construct a new 42-unit, 100% affordable, multifamily residential structure. This project has been submitted under Senate Bill (SB) 35 (Government Code Section 65913.4) which allows for streamlined ministerial review. The proposed building consists of:
+42 units 
+28 – One-bedroom units
+14 – Studio units
+7 stories 
+Approximately 30,464 square-feet 
+No on-site parking proposed as allowed by SB 35 if close to transit.  https://www.cityofsanmateo.org/4788/223-S-Humboldt-St-Apartments-SB-35-Minis</div>]]></description>
+			<gx:fid>0x808f9e794e7e2349:0x948c637e3efc1868</gx:fid>
+			<styleUrl>#__managed_style_05934FA2A23086A285F0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">223 S. Humboldt St. Apartments – SB 35 Ministerial Review</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project includes a proposal to demolish an existing single-family residence and attached single-car garage to construct a new 42-unit, 100% affordable, multifamily residential structure. This project has been submitted under Senate Bill (SB) 35 (Government Code Section 65913.4) which allows for streamlined ministerial review. The proposed building consists of:
+42 units 
+28 – One-bedroom units
+14 – Studio units
+7 stories 
+Approximately 30,464 square-feet 
+No on-site parking proposed as allowed by SB 35 if close to transit.  https://www.cityofsanmateo.org/4788/223-S-Humboldt-St-Apartments-SB-35-Minis</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3168102,37.5704097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4840D924D8B0CF1C">
+			<name>922 S Claremont St, Self-Storage  Pre-App</name>
+			<description><![CDATA[<div><b>name</b>: 922 S Claremont St, Self-Storage  Pre-App</div><div><b>description</b>: A formal Pre- Application (PA23-047) has been submitted for a proposed 79,770 sq. ft. self-storage facility at the corner of South Claremont St. and 10th Avenue. The proposal includes the:
+•	Demolition of an existing 5,770 single-story building 
+•	Construction of a new two-story with basement self-storage building (Building A – 60, 360 sq. ft.)
+•	Retention and conversion of two remaining single-story structures into self-storage facilities (Building B – 14,357 sq. ft. and Building C – 5,056 sq. ft.) 
+•	Eight (8) onsite parking spaces and two (2) onsite loading spaces.  https://www.cityofsanmateo.org/4731/922-S-Claremont-Street-Self-Storage-Pre-
+</div>]]></description>
+			<gx:fid>0x808f9e63f36db98b:0x190048668bc54b93</gx:fid>
+			<styleUrl>#__managed_style_0E6B60CB893086A285F3</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">922 S Claremont St, Self-Storage  Pre-App</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A formal Pre- Application (PA23-047) has been submitted for a proposed 79,770 sq. ft. self-storage facility at the corner of South Claremont St. and 10th Avenue. The proposal includes the:
+•	Demolition of an existing 5,770 single-story building 
+•	Construction of a new two-story with basement self-storage building (Building A – 60, 360 sq. ft.)
+•	Retention and conversion of two remaining single-story structures into self-storage facilities (Building B – 14,357 sq. ft. and Building C – 5,056 sq. ft.) 
+•	Eight (8) onsite parking spaces and two (2) onsite loading spaces.  https://www.cityofsanmateo.org/4731/922-S-Claremont-Street-Self-Storage-Pre-
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.315845,37.561537,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="6653134f_1">
+		<name>Completed Pre-Applications - Waiting for Formal Application</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+		<Placemark id="6653134f_489949C5D18382A4">
+			<name>2 W 3rd Ave Pre-Application</name>
+			<description><![CDATA[<div><b>name</b>: 2 W 3rd Ave Pre-Application</div><div><b>description</b>: Project Description
+This Pre-Application requests to develop an existing vacant lot located on the corner of S. El Camino Real and West 3rd Ave. to construct a proposed three-story office building. The project would consist of 19,989 square-feet of office uses and a third-floor terrace. https://www.cityofsanmateo.org/4737/2-W-3rd-Ave-Pre-Application </div>]]></description>
+			<gx:fid>0x808f9e71eaf794ed:0xa5d988247a48e949</gx:fid>
+			<styleUrl>#__managed_style_062546175C3086A285F7</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">2 W 3rd Ave Pre-Application</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+This Pre-Application requests to develop an existing vacant lot located on the corner of S. El Camino Real and West 3rd Ave. to construct a proposed three-story office building. The project would consist of 19,989 square-feet of office uses and a third-floor terrace. https://www.cityofsanmateo.org/4737/2-W-3rd-Ave-Pre-Application </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3265057,37.562923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F141989EA1764BF">
+			<name>477 E. Hillsdale Blvd. SB330 Pre-Application - PA22-021</name>
+			<description><![CDATA[<div><b>name</b>: 477 E. Hillsdale Blvd. SB330 Pre-Application - PA22-021</div><div><b>description</b>: A Preliminary Application has been submitted for the proposed demolition of the existing Hillsdale Inn motel, Enterprise Rent-A-Car, and self-service car wash at 477 E. Hillsdale Blvd, and construction of a new 230-unit (for rent), four-story apartment complex. 
+
+The approximately 248,900 sq. ft. multi-family development will include residential amenities such as a resident lobby, community rooms, fitness rooms, and a fourth-level deck with barbeque and seating areas. 
+
+The project will provide 283 resident parking spaces. The applicant proposes to devote 23 units (15% of the base density) as affordable to the Very Low-Income category.                                 https://www.cityofsanmateo.org/3277/477-E-Hillsdale-Boulevard </div>]]></description>
+			<gx:fid>0x808f9f1fbd0febcd:0x4c9a01f55db1c015</gx:fid>
+			<styleUrl>#__managed_style_06644D70603086A285F8</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">477 E. Hillsdale Blvd. SB330 Pre-Application - PA22-021</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Preliminary Application has been submitted for the proposed demolition of the existing Hillsdale Inn motel, Enterprise Rent-A-Car, and self-service car wash at 477 E. Hillsdale Blvd, and construction of a new 230-unit (for rent), four-story apartment complex. 
+
+The approximately 248,900 sq. ft. multi-family development will include residential amenities such as a resident lobby, community rooms, fitness rooms, and a fourth-level deck with barbeque and seating areas. 
+
+The project will provide 283 resident parking spaces. The applicant proposes to devote 23 units (15% of the base density) as affordable to the Very Low-Income category.                                 https://www.cityofsanmateo.org/3277/477-E-Hillsdale-Boulevard </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2896231,37.5428907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367F1467C5F4D5D1">
+			<name>1050 S. Amphlett Blvd. Self-Storage Facility - PA20-071</name>
+			<description><![CDATA[<div><b>name</b>: 1050 S. Amphlett Blvd. Self-Storage Facility - PA20-071</div><div><b>description</b>: A Preliminary Planning Application (Pre-App) has been submitted for a new self-storage facility located at 1050 S. Amphlett Blvd., the former San Mateo Times site. The project proposes the following:
+
+The proposed building would be three-stories tall, consist of 25,512 square feet and provide storage units for rent to the public.
+Seven proposed parking spaces, four located on the south corner of Sunnybrae Ave. and S. Amphlett Blvd. and three in the north portion of the site.
+
+The project site consists of one vacant parcel, totaling 0.34 acres.
+
+https://www.cityofsanmateo.org/4462/1050-S-Amphlett-Blvd-Self-Storage-Facili
+</div>]]></description>
+			<gx:fid>0x808f9e89abce6e2b:0x3eccf07fd1c0e3f7</gx:fid>
+			<styleUrl>#__managed_style_06644D70603086A285F8</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1050 S. Amphlett Blvd. Self-Storage Facility - PA20-071</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Preliminary Planning Application (Pre-App) has been submitted for a new self-storage facility located at 1050 S. Amphlett Blvd., the former San Mateo Times site. The project proposes the following:
+
+The proposed building would be three-stories tall, consist of 25,512 square feet and provide storage units for rent to the public.
+Seven proposed parking spaces, four located on the south corner of Sunnybrae Ave. and S. Amphlett Blvd. and three in the north portion of the site.
+
+The project site consists of one vacant parcel, totaling 0.34 acres.
+
+https://www.cityofsanmateo.org/4462/1050-S-Amphlett-Blvd-Self-Storage-Facili
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3081192,37.5649004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_465DE498018BDB0F">
+			<name>1218 Monte Diablo Ave - Pre-Application</name>
+			<description><![CDATA[<div><b>name</b>: 1218 Monte Diablo Ave - Pre-Application</div><div><b>description</b>: This Pre-Application requests demolition of all existing on-site structures on a 44,445 square-foot parcel located at the intersection of Monte Diablo Avenue and N. Kingston Street to construct a proposed multifamily residential development consisting of three-story attached townhomes and a five-story apartment building. The project would consist of:
+64 apartment units, and 11 townhome units for a total of 75 residential units
+Of the total 75 residential units, four would be devoted to the Very Low-Income category, and eight would be devoted to the Low-Income category, 63 off-street parking spaces https://www.cityofsanmateo.org/4712/1218-Monte-Diablo-Ave-Pre-Application</div>]]></description>
+			<gx:fid>0x808f9dd6f9143ab5:0x98c6c4be3a6287dd</gx:fid>
+			<styleUrl>#__managed_style_062546175C3086A285F7</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1218 Monte Diablo Ave - Pre-Application</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This Pre-Application requests demolition of all existing on-site structures on a 44,445 square-foot parcel located at the intersection of Monte Diablo Avenue and N. Kingston Street to construct a proposed multifamily residential development consisting of three-story attached townhomes and a five-story apartment building. The project would consist of:
+64 apartment units, and 11 townhome units for a total of 75 residential units
+Of the total 75 residential units, four would be devoted to the Very Low-Income category, and eight would be devoted to the Low-Income category, 63 off-street parking spaces https://www.cityofsanmateo.org/4712/1218-Monte-Diablo-Ave-Pre-Application</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3191607,37.5767485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_465DE9524A3AB34F">
+			<name>Post + Beam (668 E 3rd Ave) PA23-025</name>
+			<description><![CDATA[<div><b>name</b>: Post + Beam (668 E 3rd Ave) PA23-025</div><div><b>description</b>: “Post + Beam” is a proposed mixed-use development located on two parcels bounded by S. Eldorado St. on the east, E. 3rd Ave. on the north and S. Delaware St. on the west. The project consists of:
+Six-story commercial office building and seven-story residential building
+Approximately 131,635 square-feet of commercial uses
+A total of 59 residential units, seven of which would be devoted to the low-income category
+253 total on-site parking stalls within an underground parking garage and at ground level https://www.cityofsanmateo.org/4711/Post-Beam-668-E-3rd-Ave</div>]]></description>
+			<gx:fid>0x808f9e7a4ce69f0b:0xc104d48897947436</gx:fid>
+			<styleUrl>#__managed_style_02D04D57AF3086A285FB</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Post + Beam (668 E 3rd Ave) PA23-025</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">“Post + Beam” is a proposed mixed-use development located on two parcels bounded by S. Eldorado St. on the east, E. 3rd Ave. on the north and S. Delaware St. on the west. The project consists of:
+Six-story commercial office building and seven-story residential building
+Approximately 131,635 square-feet of commercial uses
+A total of 59 residential units, seven of which would be devoted to the low-income category
+253 total on-site parking stalls within an underground parking garage and at ground level https://www.cityofsanmateo.org/4711/Post-Beam-668-E-3rd-Ave</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3192886,37.5673125,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="6653134f_2">
+		<name>Planning Applications Under Review</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+		<Placemark id="6653134f_42D3CDB95D5ABB8D">
+			<name>31-57 S B Street - PA22-089</name>
+			<description><![CDATA[<div><b>name</b>: 31-57 S B Street - PA22-089</div><div><b>description</b>: Project Description
+•	A Planning Application (PA) has been submitted for a new commercial and office development located at 31 – 57 S. B St. 
+•	The 16,413 square foot (0.37) site is bounded by S. B St. to the West, commercial building to the North, the Downtown Caltrain Station and Transit Center Parking Garage to the East, and First Ave and the Main Street Garage to the South. The site is also adjacent to the Downtown Historic District. 
+•	The project consists of the demolition of two existing commercial buildings; and the construction of an approximately 42,000 square-foot, four-story mixed-use building with ground floor commercial uses, office uses at floors 2 to 4, at grade gathering areas, roof top common areas and public right-of-way improvements. 
+https://www.cityofsanmateo.org/4690/31-57-S-B-Street-SPAR-SDPA</div>]]></description>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">31-57 S B Street - PA22-089</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+•	A Planning Application (PA) has been submitted for a new commercial and office development located at 31 – 57 S. B St. 
+•	The 16,413 square foot (0.37) site is bounded by S. B St. to the West, commercial building to the North, the Downtown Caltrain Station and Transit Center Parking Garage to the East, and First Ave and the Main Street Garage to the South. The site is also adjacent to the Downtown Historic District. 
+•	The project consists of the demolition of two existing commercial buildings; and the construction of an approximately 42,000 square-foot, four-story mixed-use building with ground floor commercial uses, office uses at floors 2 to 4, at grade gathering areas, roof top common areas and public right-of-way improvements. 
+https://www.cityofsanmateo.org/4690/31-57-S-B-Street-SPAR-SDPA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3242062,37.5675752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4BC73BF8D257AF53">
+			<name>95 S. El Camino Real Parking Garage, SPAR </name>
+			<description><![CDATA[<div><b>name</b>: 95 S. El Camino Real Parking Garage, SPAR </div><div><b>description</b>: The project requires a Site Plan and Architectural Review (SPAR) to retain but modernize and update the existing city owned public parking structure and includes:
+•	New decorative metal louvers and screens
+•	New code compliant stairs and rooftop walkway bridge to enhance accessibility and connectivity Enhancements to onsite stormwater management, fire protection and alarm systems, and lighting and security systems for improved public safety. 
+•	 A new ground floor storage area.
+•	New signage and graphics to improve wayfinding. 
+•	Concrete repair and updated striping. 
+•	Sidewalk and street tree improvements.  https://www.cityofsanmateo.org/4789/95-S-El-Camino-Real-Parking-Garage-SPAR
+</div>]]></description>
+			<gx:fid>0x808f9e71bce0e81d:0xa1aef72773de4a59</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">95 S. El Camino Real Parking Garage, SPAR </SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The project requires a Site Plan and Architectural Review (SPAR) to retain but modernize and update the existing city owned public parking structure and includes:
+•	New decorative metal louvers and screens
+•	New code compliant stairs and rooftop walkway bridge to enhance accessibility and connectivity Enhancements to onsite stormwater management, fire protection and alarm systems, and lighting and security systems for improved public safety. 
+•	 A new ground floor storage area.
+•	New signage and graphics to improve wayfinding. 
+•	Concrete repair and updated striping. 
+•	Sidewalk and street tree improvements.  https://www.cityofsanmateo.org/4789/95-S-El-Camino-Real-Parking-Garage-SPAR
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.326147,37.563747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4B08F8BF87801F76">
+			<name>200 N Quebec St., SUP - PA23-075</name>
+			<description><![CDATA[<div><b>name</b>: 200 N Quebec St., SUP - PA23-075</div><div><b>description</b>: Project Description 
+The applicant has requested a Special Use Permit (SUP) to establish a daycare/pre-school use and a separate children’s basketball training use within the former Boys and Girls Club building located at the corner of N. Quebec Street and Monte Diablo Avenue. No expansion of the existing structure is proposed. The project would consist of: 
+
+-	A new pre-school and daycare operation (Icademy Learning Center) offering services for children aged 2-7 years located in the former classroom areas of the former Boys and Girls Club. 
+-	A new children’s basketball training camp (Team12Sports) for 3rd – 8th graders within the basketball gym and sports rooms area of the former Boys and Girls Club. Club. https://www.cityofsanmateo.org/4772/200-N-Quebec-Ave-SUP
+</div>]]></description>
+			<gx:fid>0x808f9dd38dc65abf:0xc89cbedddf4d466a</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">200 N Quebec St., SUP - PA23-075</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description 
+The applicant has requested a Special Use Permit (SUP) to establish a daycare/pre-school use and a separate children’s basketball training use within the former Boys and Girls Club building located at the corner of N. Quebec Street and Monte Diablo Avenue. No expansion of the existing structure is proposed. The project would consist of: 
+
+-	A new pre-school and daycare operation (Icademy Learning Center) offering services for children aged 2-7 years located in the former classroom areas of the former Boys and Girls Club. 
+-	A new children’s basketball training camp (Team12Sports) for 3rd – 8th graders within the basketball gym and sports rooms area of the former Boys and Girls Club. Club. https://www.cityofsanmateo.org/4772/200-N-Quebec-Ave-SUP
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.314782,37.5803401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367EFFF9AA624673">
+			<name>222 S Fremont St - PA19-036</name>
+			<description><![CDATA[<div><b>name</b>: 222 S Fremont St - PA19-036</div><div><b>description</b>: A Preliminary Planning Application (Pre-App) has been submitted to demolish the existing single-family residence to construct a 40-unit residential building.
+
+The proposed building would be 5-stories tall and would total 55,576 square feet.
+The proposed building would consist of 12 one-bedroom, 23 two-bedroom, and 3 three-bedroom units. The project proposes to devote three units for the very low-income category.
+
+A below-grade parking garage is also proposed, which includes 52 parking spaces for residents and 8 parking spaces for visitors.
+
+The project site consists of two parcels totaling 25,327 square feet (0.58 acre).
+
+https://www.cityofsanmateo.org/4387/222-S-Fremont-Street
+</div>]]></description>
+			<gx:fid>0x808f9e7bce535a4d:0x4af87f65678d4ce7</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">222 S Fremont St - PA19-036</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Preliminary Planning Application (Pre-App) has been submitted to demolish the existing single-family residence to construct a 40-unit residential building.
+
+The proposed building would be 5-stories tall and would total 55,576 square feet.
+The proposed building would consist of 12 one-bedroom, 23 two-bedroom, and 3 three-bedroom units. The project proposes to devote three units for the very low-income category.
+
+A below-grade parking garage is also proposed, which includes 52 parking spaces for residents and 8 parking spaces for visitors.
+
+The project site consists of two parcels totaling 25,327 square feet (0.58 acre).
+
+https://www.cityofsanmateo.org/4387/222-S-Fremont-Street
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.318727,37.568359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_2309F191764C5F50">
+			<name>866 Viewridge Drive - PA16-074</name>
+			<description><![CDATA[<div><b>name</b>: 866 Viewridge Drive - PA16-074</div><div><b>description</b>: A Planning Application was filed on August 18, 2016 and will require the following entitlements:
+
+•	Special Use Permit (SUP) – for substantial removal (demolition of 73% of exterior walls) of a single-story, single-family dwelling and an increase in roof pitch height of more than 2 feet.
+
+•	Single Family Dwelling Design Review (SFDDR) – for the construction of the replacement single-story, single-family dwelling (27% of the existing exterior walls will remain).
+
+The project complies with the applicable Zoning Code requirements and Single-Family Dwelling Design Guidelines. Pursuant to San Mateo Municipal Code Section 27.06.020, the Zoning Administrator is referring this application to the Planning Commission for a hearing and action due to the public controversy regarding the application.
+https://www.cityofsanmateo.org/4010/866-Viewridge-Dr
+</div>]]></description>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">866 Viewridge Drive - PA16-074</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Planning Application was filed on August 18, 2016 and will require the following entitlements:
+
+•	Special Use Permit (SUP) – for substantial removal (demolition of 73% of exterior walls) of a single-story, single-family dwelling and an increase in roof pitch height of more than 2 feet.
+
+•	Single Family Dwelling Design Review (SFDDR) – for the construction of the replacement single-story, single-family dwelling (27% of the existing exterior walls will remain).
+
+The project complies with the applicable Zoning Code requirements and Single-Family Dwelling Design Guidelines. Pursuant to San Mateo Municipal Code Section 27.06.020, the Zoning Administrator is referring this application to the Planning Commission for a hearing and action due to the public controversy regarding the application.
+https://www.cityofsanmateo.org/4010/866-Viewridge-Dr
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3149465,37.5264175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4BB249BBB3CD0648">
+			<name>619 W. 39th Ave., SFDDR</name>
+			<description><![CDATA[<div><b>name</b>: 619 W. 39th Ave., SFDDR</div><div><b>description</b>: Project Description
+This project includes a Single-Family Dwelling Design Review (SFDDR) for:
+
+A 438 square-foot third story addition to an existing two-story, single-family residence with an attached garage. 
+Remodel of 101 square-feet of the existing second story.
+The total floor area of the residence and garage as a result of the addition will be 3,022 square feet.  https://www.cityofsanmateo.org/4787/619-W-39th-Ave-SFDDR</div>]]></description>
+			<gx:fid>0x0:0x0</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">619 W. 39th Ave., SFDDR</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+This project includes a Single-Family Dwelling Design Review (SFDDR) for:
+
+A 438 square-foot third story addition to an existing two-story, single-family residence with an attached garage. 
+Remodel of 101 square-feet of the existing second story.
+The total floor area of the residence and garage as a result of the addition will be 3,022 square feet.  https://www.cityofsanmateo.org/4787/619-W-39th-Ave-SFDDR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3077965,37.5268462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4B086CB0622CD94A">
+			<name>1471 E 3rd Ave - SPAR - PA23-001</name>
+			<description><![CDATA[<div><b>name</b>: 1471 E 3rd Ave - SPAR - PA23-001</div><div><b>description</b>: This project includes a Site Plan and Architectural Review (SPAR) for:
+A new freestanding fuel price sign measuring 22 feet, four inches in height in the same location as the existing fuel price sign at an existing gasoline station. 
+Three canopy signs and one building face sign ranging from 4.8 square-feet to 21.8 square-feet in area.  https://www.cityofsanmateo.org/4771/1471-E-3rd-Ave-SPAR</div>]]></description>
+			<gx:fid>0x808f9e7e33fbbdcd:0xac2667fb5caa3717</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1471 E 3rd Ave - SPAR - PA23-001</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project includes a Site Plan and Architectural Review (SPAR) for:
+A new freestanding fuel price sign measuring 22 feet, four inches in height in the same location as the existing fuel price sign at an existing gasoline station. 
+Three canopy signs and one building face sign ranging from 4.8 square-feet to 21.8 square-feet in area.  https://www.cityofsanmateo.org/4771/1471-E-3rd-Ave-SPAR</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3117925,37.5733164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4CD1E7A963D52ACD">
+			<name>1528 S. El Camino Real, Modifications to an Existing Mixed-Use Building and Zoning Reclassification</name>
+			<description><![CDATA[<div><b>name</b>: 1528 S. El Camino Real, Modifications to an Existing Mixed-Use Building and Zoning Reclassification</div><div><b>description</b>: Project Description
+The project consists of modifications to Planning Application (PA) 1997-033 Conditions of Approval, which was previously approved by City Council on May 18, 1998, to allow interior changes to an existing building including to replace ten (10) live-work units with ten (10) standalone residential units. No exterior changes are proposed. The project also consists of a Zoning Reclassification, or change in zoning designation, of the 20,104 sq. ft. western portion of the property along Jasmine Street at 1528 S. El Camino Real, from R3 (Multiple Family Dwellings – Medium Density) to C2-1/R4 (Regional/Community Commercial with Residential Overlay District – Mixed Use). This would result in a single zone for the entire lot and align the property’s zoning designation with its Mixed-Use Medium II land use designation.  https://www.cityofsanmateo.org/4796/1528-S-El-Camino-Real-Mod-and-Zoning-Rec</div>]]></description>
+			<gx:fid>0x808f9e5e7d74eae1:0x516fad648bc1f91e</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1528 S. El Camino Real, Modifications to an Existing Mixed-Use Building and Zoning Reclassification</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+The project consists of modifications to Planning Application (PA) 1997-033 Conditions of Approval, which was previously approved by City Council on May 18, 1998, to allow interior changes to an existing building including to replace ten (10) live-work units with ten (10) standalone residential units. No exterior changes are proposed. The project also consists of a Zoning Reclassification, or change in zoning designation, of the 20,104 sq. ft. western portion of the property along Jasmine Street at 1528 S. El Camino Real, from R3 (Multiple Family Dwellings – Medium Density) to C2-1/R4 (Regional/Community Commercial with Residential Overlay District – Mixed Use). This would result in a single zone for the entire lot and align the property’s zoning designation with its Mixed-Use Medium II land use designation.  https://www.cityofsanmateo.org/4796/1528-S-El-Camino-Real-Mod-and-Zoning-Rec</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3158773,37.5533258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F141B2C4FB05794">
+			<name>1855 S Norfolk St., Multi-Family Development - PA22-099</name>
+			<description><![CDATA[<div><b>name</b>: 1855 S Norfolk St., Multi-Family Development - PA22-099</div><div><b>description</b>: This project includes the proposal to redevelop the existing Fish Market Restaurant site with a 260-unit multi-family development. The 3.46-acre site at 1855 S Norfolk St. is bound by S. Norfolk St. to the west, Seal Slough to the east, Susan Ct. to the north, and Fashion Island Blvd. to the south. The proposed development consists of:
+
+A five-story “South” building, and a four-story “North” building
+260 residential units (for-rent), of which 26 units would be affordable to the Very Low-Income level. The unit mix would consist of studios, one-, and two-bedroom units.
+1,200 square-feet of commercial uses in the North building
+325 above-grade parking spaces
+Public open spaces along Seal Slough
+Private residential open spaces on building rooftops.
+
+https://www.cityofsanmateo.org/4624
+</div>]]></description>
+			<gx:fid>0x808f9ee8e0b4be8f:0xa16719e8f5b649eb</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1855 S Norfolk St., Multi-Family Development - PA22-099</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project includes the proposal to redevelop the existing Fish Market Restaurant site with a 260-unit multi-family development. The 3.46-acre site at 1855 S Norfolk St. is bound by S. Norfolk St. to the west, Seal Slough to the east, Susan Ct. to the north, and Fashion Island Blvd. to the south. The proposed development consists of:
+
+A five-story “South” building, and a four-story “North” building
+260 residential units (for-rent), of which 26 units would be affordable to the Very Low-Income level. The unit mix would consist of studios, one-, and two-bedroom units.
+1,200 square-feet of commercial uses in the North building
+325 above-grade parking spaces
+Public open spaces along Seal Slough
+Private residential open spaces on building rooftops.
+
+https://www.cityofsanmateo.org/4624
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.292968,37.5559762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F10545812C37C2E">
+			<name>2164 Palm Ave Tennis Court - PA22-088</name>
+			<description><![CDATA[<div><b>name</b>: 2164 Palm Ave Tennis Court - PA22-088</div><div><b>description</b>: https://www.cityofsanmateo.org/4590/2164-Palm-Avenue-Tennis-Court </div>]]></description>
+			<gx:fid>0x808f9ef9a4e3160b:0x234ada80a014053c</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">2164 Palm Ave Tennis Court - PA22-088</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">https://www.cityofsanmateo.org/4590/2164-Palm-Avenue-Tennis-Court </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3069869,37.5468561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4840FAA325D38F51">
+			<name>Bay Meadows Phase II Development Agreement Extension</name>
+			<description><![CDATA[<div><b>name</b>: Bay Meadows Phase II Development Agreement Extension</div><div><b>description</b>: The Bay Meadows Phase II Development Agreement was adopted by the City Council in November of 2005 and become effective in December of 2005. The Development Agreement is an 18-year agreement between the applicant and the City to allow build-out of the Bay Meadows Phase II Specific Plan and included provision of public benefits, including public parks and financial contributions. The applicant has requested a three-year extension of the Development Agreement, which expires on December 21, 2023, to complete construction of the development. This would extend the Development Agreement to December 20, 2026. There are no changes proposed to previously approved Planning Applications or to the Specific Plan or to the Design Guidelines and Development Standards. https://www.cityofsanmateo.org/4732/Bay-Meadows-Phase-II-Development-</div>]]></description>
+			<gx:fid>0x808f9efd219dab51:0xfc39d526e51762cf</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Bay Meadows Phase II Development Agreement Extension</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The Bay Meadows Phase II Development Agreement was adopted by the City Council in November of 2005 and become effective in December of 2005. The Development Agreement is an 18-year agreement between the applicant and the City to allow build-out of the Bay Meadows Phase II Specific Plan and included provision of public benefits, including public parks and financial contributions. The applicant has requested a three-year extension of the Development Agreement, which expires on December 21, 2023, to complete construction of the development. This would extend the Development Agreement to December 20, 2026. There are no changes proposed to previously approved Planning Applications or to the Specific Plan or to the Design Guidelines and Development Standards. https://www.cityofsanmateo.org/4732/Bay-Meadows-Phase-II-Development-</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.299821,37.5438993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4445CCF8959DAB4C">
+			<name>Block 20 (500 E 4th Ave)</name>
+			<description><![CDATA[<div><b>name</b>: Block 20 (500 E 4th Ave)</div><div><b>description</b>: “Block 20” is a proposed six-story mixed-use building located on the block bounded by E. 4th Avenue, S. Delaware Street, E. 5th Avenue, and S. Claremont Street. The project consists of:
+-	132,000 square-feet of office uses
+-	86 residential units (52 studios, 25 one-bedrooms, and 9 two-bedrooms), of which 9 would be devote to the very-low income category (15% of the base density)
+-	269 On-site parking spaces within a two-level underground garage  https://www.cityofsanmateo.org/4669//Block-20-500-E-4th-Ave
+</div>]]></description>
+			<gx:fid>0x808f9e7afb51fd9f:0x5ba7a6760fb6c56e</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Block 20 (500 E 4th Ave)</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">“Block 20” is a proposed six-story mixed-use building located on the block bounded by E. 4th Avenue, S. Delaware Street, E. 5th Avenue, and S. Claremont Street. The project consists of:
+-	132,000 square-feet of office uses
+-	86 residential units (52 studios, 25 one-bedrooms, and 9 two-bedrooms), of which 9 would be devote to the very-low income category (15% of the base density)
+-	269 On-site parking spaces within a two-level underground garage  https://www.cityofsanmateo.org/4669//Block-20-500-E-4th-Ave
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3196647,37.5658387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4C48055AD68B6FE0">
+			<name>445 S B St - Bespoke</name>
+			<description><![CDATA[<div><b>name</b>: 445 S B St - Bespoke</div><div><b>description</b>: Project Description
+This project, also known as "Bespoke," is a mixed-use development located on the block bounded by East 4th and 5th Avenues, South B Street and Railroad Avenue, and includes City owned parking lot parcels on 4th Avenue and the former Talbot’s Toy Store site. The proposed includes:
+
+A seven-story 71-unit 100% affordable housing building, 
+A five-story 156,000 sq-ft retail and office building, 
+128 parking spaces on-site in an underground parking garage (of which 38 would be for residents' use),
+A combination of at grade open space and roof top common areas, and 
+Improvements in the public right-of-way area along all four street frontages.
+It should be noted that this project is a public-private partnership that includes the City as a property owner (for a portion of the project site) and a team of three partner developers (Alta Housing, a non-profit housing developer, Harvest Properties, and Prometheus). The development team was selected through a competitive process with multiple City Council public meetings. https://www.cityofsanmateo.org/4703/Bespoke-445-South-B-Street</div>]]></description>
+			<gx:fid>0x808f9e7ab8beaf5f:0x3cf0015af7122db1</gx:fid>
+			<styleUrl>#__managed_style_07A0A78E463086A285FD</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">445 S B St - Bespoke</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+This project, also known as &quot;Bespoke,&quot; is a mixed-use development located on the block bounded by East 4th and 5th Avenues, South B Street and Railroad Avenue, and includes City owned parking lot parcels on 4th Avenue and the former Talbot’s Toy Store site. The proposed includes:
+
+A seven-story 71-unit 100% affordable housing building, 
+A five-story 156,000 sq-ft retail and office building, 
+128 parking spaces on-site in an underground parking garage (of which 38 would be for residents&apos; use),
+A combination of at grade open space and roof top common areas, and 
+Improvements in the public right-of-way area along all four street frontages.
+It should be noted that this project is a public-private partnership that includes the City as a property owner (for a portion of the project site) and a team of three partner developers (Alta Housing, a non-profit housing developer, Harvest Properties, and Prometheus). The development team was selected through a competitive process with multiple City Council public meetings. https://www.cityofsanmateo.org/4703/Bespoke-445-South-B-Street</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3207608,37.5645042,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="6653134f_3">
+		<name>Projects with Approved Applications</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+		<Placemark id="6653134f_367F1CF09A0B2D8A">
+			<name>1 Hayward Ave. SPAR + SDPA - PA19-045</name>
+			<description><![CDATA[<div><b>name</b>: 1 Hayward Ave. SPAR + SDPA - PA19-045</div><div><b>description</b>: This project includes the proposal to demolish the existing structures to construct a new mixed-use building on a 12,820 sf (0.29) acre site. The proposed building consists of:
+-Four stories
+-Approximately 5,353 sf of office on the ground floor
+-18 residential units on levels 2 through 4, two of which would be devoted to the very low-income category
+-An underground parking garage with 22 parking spaces.
+https://www.cityofsanmateo.org/4255/1-Hayward-Ave-SPAR-SDPA
+</div>]]></description>
+			<gx:fid>0x808f9e660b0f2bcd:0x10eebc95c8b89ba8</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1 Hayward Ave. SPAR + SDPA - PA19-045</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project includes the proposal to demolish the existing structures to construct a new mixed-use building on a 12,820 sf (0.29) acre site. The proposed building consists of:
+-Four stories
+-Approximately 5,353 sf of office on the ground floor
+-18 residential units on levels 2 through 4, two of which would be devoted to the very low-income category
+-An underground parking garage with 22 parking spaces.
+https://www.cityofsanmateo.org/4255/1-Hayward-Ave-SPAR-SDPA
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.320326,37.55873640000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F107616B94CE099">
+			<name>4 W Santa Inez Ave -  Condos (SPAR+SDPA+VTM) PA15-104</name>
+			<description><![CDATA[<div><b>name</b>: 4 W Santa Inez Ave -  Condos (SPAR+SDPA+VTM) PA15-104</div><div><b>description</b>: Project Description 
+•	Demolish two existing single-family residences and merge two parcels
+•	Construct a new 4-story, 15,322 square-foot, 10-unit condominium building
+•	New underground parking garage with 23 stalls
+•	Removal of 22 trees 
+.  https://www.cityofsanmateo.org/4605/4-West-Santa-Inez-Condos
+
+</div>]]></description>
+			<gx:fid>0x808f9de01eb64c09:0x8c0c53c1ac846068</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">4 W Santa Inez Ave -  Condos (SPAR+SDPA+VTM) PA15-104</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description 
+•	Demolish two existing single-family residences and merge two parcels
+•	Construct a new 4-story, 15,322 square-foot, 10-unit condominium building
+•	New underground parking garage with 23 stalls
+•	Removal of 22 trees 
+.  https://www.cityofsanmateo.org/4605/4-West-Santa-Inez-Condos
+
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.334555,37.5693067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_48F51A057B9C0A2D">
+			<name>29 Baytree Way/22 De Sabla Road Condo Conversion </name>
+			<description><![CDATA[<div><b>name</b>: 29 Baytree Way/22 De Sabla Road Condo Conversion </div><div><b>description</b>: Project Description
+o	Retain the existing duplex structure and convert the duplex into two condominium units. 
+o	Entitlements required:
+o	Tentative Parcel Map (TPM) to convert an existing duplex into two condominium units which would allow each unit to be individually owned and sold;
+o	Site Plan and Architectural Review (SPAR) to legalize an existing 260 square-foot rear storage room at the 22 De Sabla unit that connects both structures;
+o	Parking Variance to allow a one-car garage where a two-car garage is required for 29 Baytree Way and to allow a reduced parking stall size of 9 ft. by 17 ft. where a size of 10 ft. x 18 ft. is otherwise required for both addresses; 
+o	Setback Variance to allow a 3.81-ft. left side setback where 5 ft. is required for 22 De Sabla Road and a 4.86-ft. right side setback where 5 ft. is required and a 14.31-ft. front yard garage setback where 20-ft. is required for 29 Baytree Way          https://www.cityofsanmateo.org/4745/29-Baytree-Way22-De-Sabla-Road-Condo-Con
+</div>]]></description>
+			<gx:fid>0x0:0x0</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">29 Baytree Way/22 De Sabla Road Condo Conversion </SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+o	Retain the existing duplex structure and convert the duplex into two condominium units. 
+o	Entitlements required:
+o	Tentative Parcel Map (TPM) to convert an existing duplex into two condominium units which would allow each unit to be individually owned and sold;
+o	Site Plan and Architectural Review (SPAR) to legalize an existing 260 square-foot rear storage room at the 22 De Sabla unit that connects both structures;
+o	Parking Variance to allow a one-car garage where a two-car garage is required for 29 Baytree Way and to allow a reduced parking stall size of 9 ft. by 17 ft. where a size of 10 ft. x 18 ft. is otherwise required for both addresses; 
+o	Setback Variance to allow a 3.81-ft. left side setback where 5 ft. is required for 22 De Sabla Road and a 4.86-ft. right side setback where 5 ft. is required and a 14.31-ft. front yard garage setback where 20-ft. is required for 29 Baytree Way          https://www.cityofsanmateo.org/4745/29-Baytree-Way22-De-Sabla-Road-Condo-Con
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3290777,37.5658454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_42D86587CBDF08B8">
+			<name>44 E 3rd Ave PA22-061 - Draper University</name>
+			<description><![CDATA[<div><b>name</b>: 44 E 3rd Ave PA22-061 - Draper University</div><div><b>description</b>: A formal Planning Application has been submitted for improvements at the 44 E. 3rd Ave. building which is a part of the Draper University campus. The proposal includes:
+Reconfiguration of existing mechanical space to allow for the extension of the elevator from the 8th floor to the 9th floor or penthouse level, associated electrical and mechanical upgrades and an elevator lobby; 
+Remodel of the penthouse which includes reconfiguring the floor plan for of residential suite, repairing or replacing walls, windows, and doors to address damage (incurred under previous ownership) while retain existing same floor area for the penthouse level; and 
+Improvements at the roof top open space with new decking, landscaping and railing.  https://www.cityofsanmateo.org/4691/44-E-3rd-Ave-SPAR-Draper-University</div>]]></description>
+			<gx:fid>0x808f9e71cac9d02d:0xe03558f4a3eb4ca1</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">44 E 3rd Ave PA22-061 - Draper University</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A formal Planning Application has been submitted for improvements at the 44 E. 3rd Ave. building which is a part of the Draper University campus. The proposal includes:
+Reconfiguration of existing mechanical space to allow for the extension of the elevator from the 8th floor to the 9th floor or penthouse level, associated electrical and mechanical upgrades and an elevator lobby; 
+Remodel of the penthouse which includes reconfiguring the floor plan for of residential suite, repairing or replacing walls, windows, and doors to address damage (incurred under previous ownership) while retain existing same floor area for the penthouse level; and 
+Improvements at the roof top open space with new decking, landscaping and railing.  https://www.cityofsanmateo.org/4691/44-E-3rd-Ave-SPAR-Draper-University</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3249547,37.5635185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_465E0E7DC31608C6">
+			<name>60 31st Ave - Hillsdale Shopping Center Modification  (PA22-022)</name>
+			<description><![CDATA[<div><b>name</b>: 60 31st Ave - Hillsdale Shopping Center Modification  (PA22-022)</div><div><b>description</b>: Project Description
+The proposed project requests to modify the approved North Block Redevelopment at the Hillsdale Shopping Center approved under Planning Application number PA-2015-024 by converting 37,611 square-feet of retail uses into office uses at the first floor of Building L. No changes to the site plan, building design, or parking supply are proposed.                                  https://www.cityofsanmateo.org/4710/Hillsdale-Shopping-Center-Modification-6 </div>]]></description>
+			<gx:fid>0x808f9f1cb491d3bf:0xb6e0cd0fb465cddb</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">60 31st Ave - Hillsdale Shopping Center Modification  (PA22-022)</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+The proposed project requests to modify the approved North Block Redevelopment at the Hillsdale Shopping Center approved under Planning Application number PA-2015-024 by converting 37,611 square-feet of retail uses into office uses at the first floor of Building L. No changes to the site plan, building design, or parking supply are proposed.                                  https://www.cityofsanmateo.org/4710/Hillsdale-Shopping-Center-Modification-6 </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2988812,37.5370361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F1094BB8FBEAEDC">
+			<name>435 E 3rd Ave - PA21-081</name>
+			<description><![CDATA[<div><b>name</b>: 435 E 3rd Ave - PA21-081</div><div><b>description</b>: This project includes the proposal to demolish all existing on-site structures to construct a new mixed-use building consisting of office and residential uses. The proposed building consists of:
+Five stories 
+Approximately 34,000 square-feet of office uses
+A total of five residential units, one of which would be devoted to the low-income category
+No on-site parking is proposed. https://www.cityofsanmateo.org/4528/435-E-3rd-Ave </div>]]></description>
+			<gx:fid>0x808f9e7a6f784917:0xa720394dd30561ba</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">435 E 3rd Ave - PA21-081</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project includes the proposal to demolish all existing on-site structures to construct a new mixed-use building consisting of office and residential uses. The proposed building consists of:
+Five stories 
+Approximately 34,000 square-feet of office uses
+A total of five residential units, one of which would be devoted to the low-income category
+No on-site parking is proposed. https://www.cityofsanmateo.org/4528/435-E-3rd-Ave </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3211926,37.566567,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_41C1EF749936514B">
+			<name>445 Virginia Ave -  PA21-020</name>
+			<description><![CDATA[<div><b>name</b>: 445 Virginia Ave -  PA21-020</div><div><b>description</b>: A Formal Planning Application has been submitted to construct a new 3,520.5 square-foot house on an existing 8,605 square-foot single-family residential parcel located at 445 Virginia Ave.  https://www.cityofsanmateo.org/4673/445-Virginia-Avenue</div>]]></description>
+			<gx:fid>0x808f9e6b76b4deb3:0xcdddd1d361e2cd7b</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">445 Virginia Ave -  PA21-020</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Formal Planning Application has been submitted to construct a new 3,520.5 square-foot house on an existing 8,605 square-foot single-family residential parcel located at 445 Virginia Ave.  https://www.cityofsanmateo.org/4673/445-Virginia-Avenue</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3309682,37.5549385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F14175DE9B0A44C">
+			<name>477 9th Avenue, Mixed-Use Development - PA22-047</name>
+			<description><![CDATA[<div><b>name</b>: 477 9th Avenue, Mixed-Use Development - PA22-047</div><div><b>description</b>: This project consists of the demolition of the existing office structures and to construct a new mixed-use office/residential building. The project consists of the following:
+
+-Construct a new five-story mixed-use building
+-Approximately 28,100 square feet of office uses
+-120 residential units for rent (studios and 1-3 bedrooms), including 12 Below Market Rate units that are affordable at the very low-income category
+-120 residential parking spaces on two levels and 48 office parking stalls on the ground level                 https://www.cityofsanmateo.org/4620/477-9th-Avenue-Mixed-Use-Development</div>]]></description>
+			<gx:fid>0x808f9e648feb641f:0x735ab591badadd0a</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">477 9th Avenue, Mixed-Use Development - PA22-047</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">This project consists of the demolition of the existing office structures and to construct a new mixed-use office/residential building. The project consists of the following:
+
+-Construct a new five-story mixed-use building
+-Approximately 28,100 square feet of office uses
+-120 residential units for rent (studios and 1-3 bedrooms), including 12 Below Market Rate units that are affordable at the very low-income category
+-120 residential parking spaces on two levels and 48 office parking stalls on the ground level                 https://www.cityofsanmateo.org/4620/477-9th-Avenue-Mixed-Use-Development</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3172435,37.5628892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F57A8938D481F96">
+			<name>1701 Leslie St - California Ninja Academy</name>
+			<description><![CDATA[<div><b>name</b>: 1701 Leslie St - California Ninja Academy</div><div><b>description</b>: A Planning Application (PA21-058) has been submitted for a commercial recreational facility located at 1701 Leslie St. (APN 035-215-050). The proposal includes a change in use of an existing building from a dance studio to a commercial recreational facility, California Ninja Academy. The project also proposes to enter into a shared parking agreement with the property owner, International Brotherhood of Electrical Workers (IBEW). The agreement proposes that of the total 46 on-site parking spaces, the project would have access to 22 dedicated parking spaces at all times and 42 spaces on weekends, holidays, and any time the IBEW offices are closed. https://www.cityofsanmateo.org/4629/1701-Leslie-St-California-Ninja-Academy</div>]]></description>
+			<gx:fid>0x808f9e5f62c9b643:0x3ecb3767fae7574e</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1701 Leslie St - California Ninja Academy</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Planning Application (PA21-058) has been submitted for a commercial recreational facility located at 1701 Leslie St. (APN 035-215-050). The proposal includes a change in use of an existing building from a dance studio to a commercial recreational facility, California Ninja Academy. The project also proposes to enter into a shared parking agreement with the property owner, International Brotherhood of Electrical Workers (IBEW). The agreement proposes that of the total 46 on-site parking spaces, the project would have access to 22 dedicated parking spaces at all times and 42 spaces on weekends, holidays, and any time the IBEW offices are closed. https://www.cityofsanmateo.org/4629/1701-Leslie-St-California-Ninja-Academy</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3108402,37.5540864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3FF1B9B19A4EFE35">
+			<name>616 S B St, Nazareth Vista Mixed Use Development</name>
+			<description><![CDATA[<div><b>name</b>: 616 S B St, Nazareth Vista Mixed Use Development</div><div><b>description</b>: A Formal Planning Application (PA22-037) has been submitted for a new six-story mixed-use building located at 616 S. B St. The proposal includes:
+Demolishing all existing structures on the site 
+6,919 sq. ft. of commercial space on the ground floor 
+48 apartment units (1-3 bedrooms), of which 5 units would be devoted to the very-low income category (15% of the base-density).
+34 commercial parking spaces on the ground floor and 57 residential parking spaces on one, subterraneous level.   https://www.cityofsanmateo.org/4632/616-S-B-Street-Nazareth-Vista-Mixed-Use-</div>]]></description>
+			<gx:fid>0x808f9e653b7af34f:0xf6b2a2b7dc04f0ab</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">616 S B St, Nazareth Vista Mixed Use Development</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A Formal Planning Application (PA22-037) has been submitted for a new six-story mixed-use building located at 616 S. B St. The proposal includes:
+Demolishing all existing structures on the site 
+6,919 sq. ft. of commercial space on the ground floor 
+48 apartment units (1-3 bedrooms), of which 5 units would be devoted to the very-low income category (15% of the base-density).
+34 commercial parking spaces on the ground floor and 57 residential parking spaces on one, subterraneous level.   https://www.cityofsanmateo.org/4632/616-S-B-Street-Nazareth-Vista-Mixed-Use-</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3200079,37.5629786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_2D1499583B8174EF">
+			<name>1919 O&apos;Farrell Street - PA20-037</name>
+			<description><![CDATA[<div><b>name</b>: 1919 O'Farrell Street - PA20-037</div><div><b>description</b>: The applicant proposes to demolish the existing structure and construct a 4-story, 49-unit multifamily apartment community with subterranean parking.
+
+Apartment amenities include bike storage, a community room, private balconies, and a courtyard. Required entitlements include a Site Plan and Architectural Review (SPAR) for construction of a new residential building and Site Development Planning Application (SDPA) for grading and removal of vegetation.
+The project is located on a 0.71 acre parcel which allows a base density of 36 units. The State Density Bonus permits an additional 13 units, or 35% of the base density, to be added to the project, bringing the total number of units to 49. Included in that total are 4 units devoted to very low-income households.
+
+A reduced parking ratio of 0.5 spaces/bedroom is also permitted by the State Density Bonus because the project is within 1/2 mile of public transit; however, the applicant is voluntarily providing 30 additional parking spaces, resulting in a total of 64 parking spaces for the project.
+
+https://www.cityofsanmateo.org/4125/1919-OFarrell-Street-Pre-App
+</div>]]></description>
+			<gx:fid>0x808f9e59a0a25927:0x95551cfdd6b3192c</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1919 O&apos;Farrell Street - PA20-037</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The applicant proposes to demolish the existing structure and construct a 4-story, 49-unit multifamily apartment community with subterranean parking.
+
+Apartment amenities include bike storage, a community room, private balconies, and a courtyard. Required entitlements include a Site Plan and Architectural Review (SPAR) for construction of a new residential building and Site Development Planning Application (SDPA) for grading and removal of vegetation.
+The project is located on a 0.71 acre parcel which allows a base density of 36 units. The State Density Bonus permits an additional 13 units, or 35% of the base density, to be added to the project, bringing the total number of units to 49. Included in that total are 4 units devoted to very low-income households.
+
+A reduced parking ratio of 0.5 spaces/bedroom is also permitted by the State Density Bonus because the project is within 1/2 mile of public transit; however, the applicant is voluntarily providing 30 additional parking spaces, resulting in a total of 64 parking spaces for the project.
+
+https://www.cityofsanmateo.org/4125/1919-OFarrell-Street-Pre-App
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3146048,37.5487882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F10B64B5AF3FFEF">
+			<name>3125 Clearview Way, SPAR + SDPA - PA21-047</name>
+			<description><![CDATA[<div><b>name</b>: 3125 Clearview Way, SPAR + SDPA - PA21-047</div><div><b>description</b>: The applicant proposes to demolish the existing structure and construct a 4-story, 49-unit multifamily apartment community with subterranean parking.
+
+Apartment amenities include bike storage, a community room, private balconies, and a courtyard.
+Required entitlements include a Site Plan and Architectural Review (SPAR) for construction of a new residential building and Site Development Planning Application (SDPA) for grading and removal of vegetation.
+The project is located on a 0.71 acre parcel which allows a base density of 36 units. The State Density Bonus permits an additional 13 units, or 35% of the base density, to be added to the project, bringing the total number of units to 49. Included in that total are 4 units devoted to very low-income households.
+A reduced parking ratio of 0.5 spaces/unit is also permitted by the State Density Bonus because the project is within 1/2 mile of public transit; however, the applicant is voluntarily providing 30 additional parking spaces, resulting in a total of 64 parking spaces for the project.    https://www.cityofsanmateo.org/4125/1919-OFarrell-Street-Pre-App</div>]]></description>
+			<gx:fid>0x808f9e4a933fa055:0x156fbf4651f3578e</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">3125 Clearview Way, SPAR + SDPA - PA21-047</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The applicant proposes to demolish the existing structure and construct a 4-story, 49-unit multifamily apartment community with subterranean parking.
+
+Apartment amenities include bike storage, a community room, private balconies, and a courtyard.
+Required entitlements include a Site Plan and Architectural Review (SPAR) for construction of a new residential building and Site Development Planning Application (SDPA) for grading and removal of vegetation.
+The project is located on a 0.71 acre parcel which allows a base density of 36 units. The State Density Bonus permits an additional 13 units, or 35% of the base density, to be added to the project, bringing the total number of units to 49. Included in that total are 4 units devoted to very low-income households.
+A reduced parking ratio of 0.5 spaces/unit is also permitted by the State Density Bonus because the project is within 1/2 mile of public transit; however, the applicant is voluntarily providing 30 additional parking spaces, resulting in a total of 64 parking spaces for the project.    https://www.cityofsanmateo.org/4125/1919-OFarrell-Street-Pre-App</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3319646,37.5332421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F10B8FB393E47D9">
+			<name>Alameda de las Pulgas &amp; Portola Dr Cal Water Pump Station Replacement Project, SUP + SPAR + Variance - PA20-052</name>
+			<description><![CDATA[<div><b>name</b>: Alameda de las Pulgas & Portola Dr Cal Water Pump Station Replacement Project, SUP + SPAR + Variance - PA20-052</div><div><b>description</b>: The California Water Service Company (Cal Water) has submitted a Planning Application proposing to demolish and replace an existing water pump station located on the northwest corner of Alameda de las Pulgas and Portola Drive. The project proposes the following:
+
+Replace an existing one-story, 480 square-foot water pump station building. The new building will be composed of concrete masonry wall material and a plywood and fiberglass shingle roof.
+New building foundation, station water pipes, electrical and associated infrastructure to provide continued service for the San Mateo water system. The proposed improvements would require removal of two (2) Magnolia street trees.
+Landscape improvements to include new plants, mulch, drip line irrigation and steppingstone paths throughout the site. https://www.cityofsanmateo.org/4578/Alameda-de-las-Pulgas-Portola-Dr-Cal-Wat</div>]]></description>
+			<gx:fid>0x808f9e5500cda8c1:0xc216a5c775e42491</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Alameda de las Pulgas &amp; Portola Dr Cal Water Pump Station Replacement Project, SUP + SPAR + Variance - PA20-052</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The California Water Service Company (Cal Water) has submitted a Planning Application proposing to demolish and replace an existing water pump station located on the northwest corner of Alameda de las Pulgas and Portola Drive. The project proposes the following:
+
+Replace an existing one-story, 480 square-foot water pump station building. The new building will be composed of concrete masonry wall material and a plywood and fiberglass shingle roof.
+New building foundation, station water pipes, electrical and associated infrastructure to provide continued service for the San Mateo water system. The proposed improvements would require removal of two (2) Magnolia street trees.
+Landscape improvements to include new plants, mulch, drip line irrigation and steppingstone paths throughout the site. https://www.cityofsanmateo.org/4578/Alameda-de-las-Pulgas-Portola-Dr-Cal-Wat</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.313244,37.53957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367EFC661EDAD488">
+			<name>B Street South (222 E 4th Ave - Draeger&apos;s) - PA21-071</name>
+			<description><![CDATA[<div><b>name</b>: B Street South (222 E 4th Ave - Draeger's) - PA21-071</div><div><b>description</b>: Project Description
+A formal Planning Application (PA-2021-071) has been submitted to demolish the existing structure which currently consists of Draeger’s Market at 222 E. 4th Avenue to construct a mixed-use building.
+The proposed building would consist of approximately 104,722 sf of office space, 17,658 sf of retail space for a grocer, and 8,971 sf of residential space for 10 below-market-rate units at the lower-income level. The proposed parking garage includes 12,392 sf above grade and two levels (89,519 sf) below grade for a total of 239 parking spaces.
+The proposed building would be 5 stories in height and would total 153,052 square feet.
+The project site consists of four parcels totaling 49,478 square feet (1.123 acre).
+
+https://www.cityofsanmateo.org/4386/222-E-4th-Ave-Draegers
+</div>]]></description>
+			<gx:fid>0x808f9e7aa4f1cd2f:0x1bd009b9c09418d9</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">B Street South (222 E 4th Ave - Draeger&apos;s) - PA21-071</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+A formal Planning Application (PA-2021-071) has been submitted to demolish the existing structure which currently consists of Draeger’s Market at 222 E. 4th Avenue to construct a mixed-use building.
+The proposed building would consist of approximately 104,722 sf of office space, 17,658 sf of retail space for a grocer, and 8,971 sf of residential space for 10 below-market-rate units at the lower-income level. The proposed parking garage includes 12,392 sf above grade and two levels (89,519 sf) below grade for a total of 239 parking spaces.
+The proposed building would be 5 stories in height and would total 153,052 square feet.
+The project site consists of four parcels totaling 49,478 square feet (1.123 acre).
+
+https://www.cityofsanmateo.org/4386/222-E-4th-Ave-Draegers
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3214694,37.5642876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F140BFDD46FB3F0">
+			<name>Bay Meadows Phase II SPAR #1 Mixed Use Blocks 2 and 3 Modification - PA20-053</name>
+			<description><![CDATA[<div><b>name</b>: Bay Meadows Phase II SPAR #1 Mixed Use Blocks 2 and 3 Modification - PA20-053</div><div><b>description</b>: The subject Modification proposes to modify the previously approved Bay Meadows Phase II SPAR #1 planning application PA07-054 (approved by City Council on April 8, 2008) for two mixed-use (MU) blocks.
+
+The approved MU2 building will be modified to be an office/active use building consisting of approximately 183,000 sq. ft.
+MU3 will be modified to be an office/active use building consisting of approximately 120,000 sq. ft.
+The MU2 and MU3 buildings will consist of three stories above one ground-level of active retail uses.
+MU3 will also consist of a four-story, 67-unit multifamily residential building.
+The project also includes separation of the residential and office portion of MU3, as well as a shared subterranean parking garage.  https://www.cityofsanmateo.org/4236/Bay-Meadows-Phase-II-SPAR-1-Mixed-Use-Bl</div>]]></description>
+			<gx:fid>0x808f9efd18e42c8f:0x932ac93e60119ec3</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Bay Meadows Phase II SPAR #1 Mixed Use Blocks 2 and 3 Modification - PA20-053</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The subject Modification proposes to modify the previously approved Bay Meadows Phase II SPAR #1 planning application PA07-054 (approved by City Council on April 8, 2008) for two mixed-use (MU) blocks.
+
+The approved MU2 building will be modified to be an office/active use building consisting of approximately 183,000 sq. ft.
+MU3 will be modified to be an office/active use building consisting of approximately 120,000 sq. ft.
+The MU2 and MU3 buildings will consist of three stories above one ground-level of active retail uses.
+MU3 will also consist of a four-story, 67-unit multifamily residential building.
+The project also includes separation of the residential and office portion of MU3, as well as a shared subterranean parking garage.  https://www.cityofsanmateo.org/4236/Bay-Meadows-Phase-II-SPAR-1-Mixed-Use-Bl</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3009852,37.5430277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367F113348FC328E">
+			<name>&quot;Block 21&quot; -  PA21-012</name>
+			<description><![CDATA[<div><b>name</b>: "Block 21" -  PA21-012</div><div><b>description</b>: “Block 21” is a proposed six-story mixed-use building located on the block bounded by E. 3rd Avenue, S. Delaware Street, E. 4th Avenue, and S. Claremont Street consisting of
+
+-179,560 square-feet of office uses
+-111 Residential units (53 Studios and 58 1-Bedrooms), of which 12 units would be devoted to the very-low income category (15% of the base-density)
+-402 On-site parking spaces within a two-level underground garage
+
+https://www.cityofsanmateo.org/4501/Block-21-Pre-App
+</div>]]></description>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">&quot;Block 21&quot; -  PA21-012</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">“Block 21” is a proposed six-story mixed-use building located on the block bounded by E. 3rd Avenue, S. Delaware Street, E. 4th Avenue, and S. Claremont Street consisting of
+
+-179,560 square-feet of office uses
+-111 Residential units (53 Studios and 58 1-Bedrooms), of which 12 units would be devoted to the very-low income category (15% of the base-density)
+-402 On-site parking spaces within a two-level underground garage
+
+https://www.cityofsanmateo.org/4501/Block-21-Pre-App
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3200199,37.5665374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_1E8E73DFD7C7A9CA">
+			<name>Concar Passage - PA18-052</name>
+			<description><![CDATA[<div><b>name</b>: Concar Passage - PA18-052</div><div><b>description</b>: The project site is located on Concar Drive, between South Grant Street and South Delaware Street.
+
+The site is approximately 14.5 acres and currently occupied by Concar Shopping Center, which includes Trader Joe’s, Peninsula Ballet Theatre, Ross Dress for Less, The Pantry, Rite-Aid, T.J. Maxx, Shane Co., and 7-Eleven.
+
+The project proposes to demolish the existing commercial buildings and construct 961 multi-family dwelling units and approximately 40,000 square feet of commercial/retail space. The project includes 73 affordable housing units, associated parking and 3 acres of community open space. Commercial uses include Trader Joe’s, Peninsula Ballet Theatre, 7-Eleven and a new SEED food hall, with other retail space and a daycare facility for approximately 70 children.
+
+https://www.cityofsanmateo.org/3777/CONCAR-PASSAGE
+</div>]]></description>
+			<gx:fid>0x808f9ef1525cba3f:0x5fa60f5cb516ddf</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Concar Passage - PA18-052</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The project site is located on Concar Drive, between South Grant Street and South Delaware Street.
+
+The site is approximately 14.5 acres and currently occupied by Concar Shopping Center, which includes Trader Joe’s, Peninsula Ballet Theatre, Ross Dress for Less, The Pantry, Rite-Aid, T.J. Maxx, Shane Co., and 7-Eleven.
+
+The project proposes to demolish the existing commercial buildings and construct 961 multi-family dwelling units and approximately 40,000 square feet of commercial/retail space. The project includes 73 affordable housing units, associated parking and 3 acres of community open space. Commercial uses include Trader Joe’s, Peninsula Ballet Theatre, 7-Eleven and a new SEED food hall, with other retail space and a daycare facility for approximately 70 children.
+
+https://www.cityofsanmateo.org/3777/CONCAR-PASSAGE
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3047524,37.5535536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F10A8F3721488D2">
+			<name>Hayward Park Caltrain Station Parking Lot (401 Concar Dr.) PA21-033</name>
+			<description><![CDATA[<div><b>name</b>: Hayward Park Caltrain Station Parking Lot (401 Concar Dr.) PA21-033</div><div><b>description</b>: The proposed project is to develop a 122,538 square foot (or 2.81 acre) site currently serving as a 225 space surface parking lot for Caltrain’s Hayward Park Station. The proposed project consists of the following:
+
+-Construct a new five-story, 226,965 square foot residential building
+-191 apartment units, including 16 units dedicated to the very low-income category (50% AMI) and 12 units dedicated to the moderate income category (80-120% AMI)
+-192 parking spaces, of which two ADA spaces would be available for Caltrain users https://www.cityofsanmateo.org/4545/Hayward-Park-Station</div>]]></description>
+			<gx:fid>0x808f9ef66db0e1d5:0xbfc25b6327073e5a</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Hayward Park Caltrain Station Parking Lot (401 Concar Dr.) PA21-033</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The proposed project is to develop a 122,538 square foot (or 2.81 acre) site currently serving as a 225 space surface parking lot for Caltrain’s Hayward Park Station. The proposed project consists of the following:
+
+-Construct a new five-story, 226,965 square foot residential building
+-191 apartment units, including 16 units dedicated to the very low-income category (50% AMI) and 12 units dedicated to the moderate income category (80-120% AMI)
+-192 parking spaces, of which two ADA spaces would be available for Caltrain users https://www.cityofsanmateo.org/4545/Hayward-Park-Station</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.308731,37.552891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_2D14BFA330EC84D9">
+			<name>Hillsdale Terraces - PA15-031</name>
+			<description><![CDATA[<div><b>name</b>: Hillsdale Terraces - PA15-031</div><div><b>description</b>: On February 6, 2017, City Council approved the Hillsdale Terrace Mixed Use Project including a Condition of Approval requiring developer financial contribution to satisfy General Plan requirement for increased building height.
+On October 2, 2017, the City Council approved the use of the developer contribution for a Capital Improvement Program project targeted towards pedestrian and bicycle improvements in the immediate area of the project site. 
+On February 24, 2021, the developer requested an extension in accordance with Government Code 65914.5. The extension was granted by the Zoning Administrator on February 26, 2021 which now provides an expiration date of October 1, 2022.    
+https://www.cityofsanmateo.org/3016/Hillsdale-Terraces
+</div>]]></description>
+			<gx:fid>0x808f9efdc9809381:0xce8c5cd10ad5e81</gx:fid>
+			<styleUrl>#__managed_style_0727E0B9CF3086A28601</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Hillsdale Terraces - PA15-031</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">On February 6, 2017, City Council approved the Hillsdale Terrace Mixed Use Project including a Condition of Approval requiring developer financial contribution to satisfy General Plan requirement for increased building height.
+On October 2, 2017, the City Council approved the use of the developer contribution for a Capital Improvement Program project targeted towards pedestrian and bicycle improvements in the immediate area of the project site. 
+On February 24, 2021, the developer requested an extension in accordance with Government Code 65914.5. The extension was granted by the Zoning Administrator on February 26, 2021 which now provides an expiration date of October 1, 2022.    
+https://www.cityofsanmateo.org/3016/Hillsdale-Terraces
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3036399,37.54219329999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="6653134f_4">
+		<name>Planning Projects Under Construction</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+		<Placemark id="6653134f_1D863A9DE9625E56">
+			<name>1, 2, and 3 Waters Park Drive: PA20-043 &amp; PA18-013</name>
+			<description><![CDATA[<div><b>name</b>: 1, 2, and 3 Waters Park Drive: PA20-043 & PA18-013</div><div><b>description</b>: Waters Technology Office Park is an 11.1-acre property off Norfolk St. previously occupied by an approximately 100,000-square-foot office business park. The redevelopment required the demolition of all existing offices to be replaced with 190 for-sale residences, including a mix of two-story detached single-family residences, as well as three (3) and four (4) story attached townhomes and flats. The project also proposes a new publicly accessible, privately-owned trail along Borel Creek and private open space.
+
+https://www.cityofsanmateo.org/3692/Waters-Office-Park-Residential-Pre-App
+</div>]]></description>
+			<gx:fid>0x808f9ee655b245d9:0xc41a3d04c8f0f1d1</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">1, 2, and 3 Waters Park Drive: PA20-043 &amp; PA18-013</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Waters Technology Office Park is an 11.1-acre property off Norfolk St. previously occupied by an approximately 100,000-square-foot office business park. The redevelopment required the demolition of all existing offices to be replaced with 190 for-sale residences, including a mix of two-story detached single-family residences, as well as three (3) and four (4) story attached townhomes and flats. The project also proposes a new publicly accessible, privately-owned trail along Borel Creek and private open space.
+
+https://www.cityofsanmateo.org/3692/Waters-Office-Park-Residential-Pre-App
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.291137,37.5513482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367F5E21B62A63D3">
+			<name>115 Monte Diablo SPAR, SUP, SDPA, Parking Variance, &amp; TPM - PA16-088</name>
+			<description><![CDATA[<div><b>name</b>: 115 Monte Diablo SPAR, SUP, SDPA, Parking Variance, & TPM - PA16-088</div><div><b>description</b>: Demolition of two existing single-family residences and an existing child care building to construct a 13,997-square-foot two-story building with an underground parking garage containing 30 parking spaces. The proposed two-story building consists of a childcare facility with six classrooms, offices, and outdoor play areas on the first floor and a synagogue, social hall, conference room, kitchen, and support spaces on the second floor. The project would require the removal of 9 on-site trees including 8 heritage trees: including four (4) Liquidambar trees, 12.1, 8.2, 13.5, and 25.5 inches in diameter, one (1) Strawberry tree, 7.3 inches in diameter, two (2) Gingko Biloba, 13.2 and 19.3 inches in diameter, one (1) Pittosporum, 10.7 inches in diameter, and one (1) 4.2-inch Lemon tree.
+The project complies with the applicable Zoning Code requirements and applicable plan policies. 
+
+ https://www.cityofsanmateo.org/3167/115-Monte-Diablo
+</div>]]></description>
+			<gx:fid>0x808f9e759a4ac97d:0x8a9e0c33e818c452</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">115 Monte Diablo SPAR, SUP, SDPA, Parking Variance, &amp; TPM - PA16-088</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Demolition of two existing single-family residences and an existing child care building to construct a 13,997-square-foot two-story building with an underground parking garage containing 30 parking spaces. The proposed two-story building consists of a childcare facility with six classrooms, offices, and outdoor play areas on the first floor and a synagogue, social hall, conference room, kitchen, and support spaces on the second floor. The project would require the removal of 9 on-site trees including 8 heritage trees: including four (4) Liquidambar trees, 12.1, 8.2, 13.5, and 25.5 inches in diameter, one (1) Strawberry tree, 7.3 inches in diameter, two (2) Gingko Biloba, 13.2 and 19.3 inches in diameter, one (1) Pittosporum, 10.7 inches in diameter, and one (1) 4.2-inch Lemon tree.
+The project complies with the applicable Zoning Code requirements and applicable plan policies. 
+
+ https://www.cityofsanmateo.org/3167/115-Monte-Diablo
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3300383,37.5695678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_2430A3CD0096E942">
+			<name>180 E. 3rd Avenue - PA19-002</name>
+			<description><![CDATA[<div><b>name</b>: 180 E. 3rd Avenue - PA19-002</div><div><b>description</b>: Site Plan and Architectural Review (SPAR) to demolish the existing building (Aaron Brothers and office space at 300 S. Ellsworth Ave.) and construct a 17,187 square-foot three-story mixed-use building with one basement level. The proposed uses include 3,380 square feet of retail on the ground floor, and a total of 19,608 square feet of office on the basement, second, and third floors. A private rooftop terrace is also proposed. The applicant does not propose to provide parking on-site and has requested to pay Central Parking and Improvement District (CPID) parking in-lieu fees.
+https://www.cityofsanmateo.org/3906/180-E-3rd-Ave-Mixed-Use-SPAR
+</div>]]></description>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">180 E. 3rd Avenue - PA19-002</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Site Plan and Architectural Review (SPAR) to demolish the existing building (Aaron Brothers and office space at 300 S. Ellsworth Ave.) and construct a 17,187 square-foot three-story mixed-use building with one basement level. The proposed uses include 3,380 square feet of retail on the ground floor, and a total of 19,608 square feet of office on the basement, second, and third floors. A private rooftop terrace is also proposed. The applicant does not propose to provide parking on-site and has requested to pay Central Parking and Improvement District (CPID) parking in-lieu fees.
+https://www.cityofsanmateo.org/3906/180-E-3rd-Ave-Mixed-Use-SPAR
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3231255,37.5646662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F4EAA4974643B1B">
+			<name>200 S. Fremont Street - Fremont Terrace PA21-073 &amp; PA15-048</name>
+			<description><![CDATA[<div><b>name</b>: 200 S. Fremont Street - Fremont Terrace PA21-073 & PA15-048</div><div><b>description</b>: Project Description
+Development of a four-story, 15-unit residential condominium building with below grade parking located at the southeast corner of 2nd Avenue and Fremont Streets.
+2022 Update: The applicant filed a formal application (PA-2021-073) for off-site construction staging at the adjacent parcel on S. Fremont Street and E. 3rd Avenue (APN: 033-163-170). This project is currently under review.
+https://www.cityofsanmateo.org/3055/210-So-Fremont-Street</div>]]></description>
+			<gx:fid>0x808f9e7bd3932423:0x74c4ceae7fba56bd</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">200 S. Fremont Street - Fremont Terrace PA21-073 &amp; PA15-048</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+Development of a four-story, 15-unit residential condominium building with below grade parking located at the southeast corner of 2nd Avenue and Fremont Streets.
+2022 Update: The applicant filed a formal application (PA-2021-073) for off-site construction staging at the adjacent parcel on S. Fremont Street and E. 3rd Avenue (APN: 033-163-170). This project is currently under review.
+https://www.cityofsanmateo.org/3055/210-So-Fremont-Street</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3189672,37.5686576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_1A0D0702DFC87C3F">
+			<name>303 Baldwin Avenue - PA17-085</name>
+			<description><![CDATA[<div><b>name</b>: 303 Baldwin Avenue - PA17-085</div><div><b>description</b>: The project proposes to demolish the existing buildings on the site (Trag's Market) and construct a new 131,636 square-foot four (4) and (5) five-story mixed-use building. Parking is provided in an underground four level garage. The building consists of 64 studio and one bedroom residential units (totaling 51,020 square feet), 19,952 square feet of commercial/retail space on the ground floor (including 2,280 square feet service area), and 60,664 square feet of office space above the ground floor. The building includes a residential courtyard at the rear of the building and a roof terrace. Seventy-four (74) long-term and eighteen (18) short-term bike parking spaces are proposed.
+https://www.cityofsanmateo.org/3778/303-Baldwin-Avenue
+</div>]]></description>
+			<gx:fid>0x808f9e76d973dda5:0x8b1b6f19b117a763</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">303 Baldwin Avenue - PA17-085</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The project proposes to demolish the existing buildings on the site (Trag&apos;s Market) and construct a new 131,636 square-foot four (4) and (5) five-story mixed-use building. Parking is provided in an underground four level garage. The building consists of 64 studio and one bedroom residential units (totaling 51,020 square feet), 19,952 square feet of commercial/retail space on the ground floor (including 2,280 square feet service area), and 60,664 square feet of office space above the ground floor. The building includes a residential courtyard at the rear of the building and a roof terrace. Seventy-four (74) long-term and eighteen (18) short-term bike parking spaces are proposed.
+https://www.cityofsanmateo.org/3778/303-Baldwin-Avenue
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3252095,37.5678746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_3F10920D466AFD9C">
+			<name>415 Fairfax Ave - PA21-066</name>
+			<description><![CDATA[<div><b>name</b>: 415 Fairfax Ave - PA21-066</div><div><b>description</b>: Project Description
+This project includes a new 3,910 square-foot house on an existing 10,588 square-foot single-family residential parcel located at 415 Fairfax Ave. The project consists of: 
+
+A Special Use Permit for the demolition of the existing residence. 
+A partial second floor area, new pool, and attached ADU
+4 bedrooms and 5.5 baths in the main house and an ADU.
+An attached ADU 798 square-feet in size
+Project Update
+This application was filed on October 29, 2021 and re-submitted on April 20, 2022 is under review with City departments.
+The City’s historic review consultant prepared an evaluation of the existing home, which concludes that the existing residence does not qualify as a historic resource  https://www.cityofsanmateo.org/4592/415-Fairfax-Avenue</div>]]></description>
+			<gx:fid>0x808f9e6c95914511:0xcb19625c32eec1e9</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">415 Fairfax Ave - PA21-066</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description
+This project includes a new 3,910 square-foot house on an existing 10,588 square-foot single-family residential parcel located at 415 Fairfax Ave. The project consists of: 
+
+A Special Use Permit for the demolition of the existing residence. 
+A partial second floor area, new pool, and attached ADU
+4 bedrooms and 5.5 baths in the main house and an ADU.
+An attached ADU 798 square-feet in size
+Project Update
+This application was filed on October 29, 2021 and re-submitted on April 20, 2022 is under review with City departments.
+The City’s historic review consultant prepared an evaluation of the existing home, which concludes that the existing residence does not qualify as a historic resource  https://www.cityofsanmateo.org/4592/415-Fairfax-Avenue</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3319424,37.5564711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_KSRGQQUR834O0AFAD475B719360F">
+			<name>2940 So. Norfolk Street (Hampton Inn &amp; Suites) - PA16-060
+</name>
+			<description><![CDATA[<div><b>name</b>: 2940 So. Norfolk Street (Hampton Inn & Suites) - PA16-060
+</div><div><b>description</b>: • Site Plan and Architectural Review (SPAR) 
+ • General Plan Land Use and Height Plan Amendments
+ • Zoning Reclassification
+ • Zoning Variance to Reduce Parking
+ • Demolition of existing Best Western Hotel
+ • Construction of new 182 room/suite Hampton Inn & Suites Hotel 
+ • 86,859 square feet
+ • 5 stories
+ • 146 ground-level parking spaces
+https://www.cityofsanmateo.org/2964/2940-S-Norfolk-St-Hampton-Suites
+</div>]]></description>
+			<gx:fid>0x808f9f205a603d25:0x5b75e9a8b4220a12</gx:fid>
+			<styleUrl>#__managed_style_03EE9784FA3086A2860C</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">2940 So. Norfolk Street (Hampton Inn &amp; Suites) - PA16-060
+</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">• Site Plan and Architectural Review (SPAR) 
+ • General Plan Land Use and Height Plan Amendments
+ • Zoning Reclassification
+ • Zoning Variance to Reduce Parking
+ • Demolition of existing Best Western Hotel
+ • Construction of new 182 room/suite Hampton Inn &amp; Suites Hotel 
+ • 86,859 square feet
+ • 5 stories
+ • 146 ground-level parking spaces
+https://www.cityofsanmateo.org/2964/2940-S-Norfolk-St-Hampton-Suites
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.285766,37.543951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367F72EC8D825FB9">
+			<name>3069 Kyne Street* (Bay Meadows Phase II - RES 6) - PA20-033</name>
+			<description><![CDATA[<div><b>name</b>: 3069 Kyne Street* (Bay Meadows Phase II - RES 6) - PA20-033</div><div><b>description</b>: *The September 10, 2020 Planning Commission hearing agenda description and administrative report indicate the general street address (2600 S. Delaware Street) used in general reference to the development blocks approved under SPAR #2 (PA-2007-055)
+
+On Sept. 10, 2020, the Planning Commission approved the proposed SPAR Modifications and amendment to Condition of Approval #47.
+
+https://www.cityofsanmateo.org/4389/3069-Kyne-Street-Bay-Meadows-Phase-II---
+</div>]]></description>
+			<gx:fid>0x0:0x0</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">3069 Kyne Street* (Bay Meadows Phase II - RES 6) - PA20-033</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">*The September 10, 2020 Planning Commission hearing agenda description and administrative report indicate the general street address (2600 S. Delaware Street) used in general reference to the development blocks approved under SPAR #2 (PA-2007-055)
+
+On Sept. 10, 2020, the Planning Commission approved the proposed SPAR Modifications and amendment to Condition of Approval #47.
+
+https://www.cityofsanmateo.org/4389/3069-Kyne-Street-Bay-Meadows-Phase-II---
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2978262,37.5419761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_4C9E0E1A6C6E089B">
+			<name>3101 S. El Camino Real Demolition/Vacant Lot (Former TGI Friday’s)</name>
+			<description><![CDATA[<div><b>name</b>: 3101 S. El Camino Real Demolition/Vacant Lot (Former TGI Friday’s)</div><div><b>description</b>: Project Description and Update
+The former TGI Friday’s restaurant building located at 3101 S. El Camino Real was approved for demolition in March of 2024, with an expected demolition date of April 1, 2024 under building permit number BD-2023-289143. Following demolition, the applicant will install fencing and landscaping in accordance with the Vacant Lot Maintenance Code. The applicant has not filed plans for a new building or permanent use. Please contact the applicant below for additional information. https://www.cityofsanmateo.org/4792/3101-S-El-Camino-Real-DemolitionVacant-L  </div>]]></description>
+			<gx:fid>0x808f9f1cd1be8c73:0xbad5b07cb586ed7a</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">3101 S. El Camino Real Demolition/Vacant Lot (Former TGI Friday’s)</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Project Description and Update
+The former TGI Friday’s restaurant building located at 3101 S. El Camino Real was approved for demolition in March of 2024, with an expected demolition date of April 1, 2024 under building permit number BD-2023-289143. Following demolition, the applicant will install fencing and landscaping in accordance with the Vacant Lot Maintenance Code. The applicant has not filed plans for a new building or permanent use. Please contact the applicant below for additional information. https://www.cityofsanmateo.org/4792/3101-S-El-Camino-Real-DemolitionVacant-L  </SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.299035,37.5386728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_1E8E801A3E1F39BD">
+			<name>Bay Meadows II SPAR #1 STA 1 &amp; 5 Modification - PA17-074</name>
+			<description><![CDATA[<div><b>name</b>: Bay Meadows II SPAR #1 STA 1 & 5 Modification - PA17-074</div><div><b>description</b>: The Planning Commission held a public hearing on Tuesday, September 25, 2018 at 7:00 PM and approved (3-0) the following: 
+-Addendum to the Previously Certified Final Environmental Impact Report for the San Mateo Rail Corridor Plan & Bay Meadows Specific Plan Amendment and Previously Certified Final EIR (4-18-05, 6-6-05, & 11-7-05);
+-Tentative Parcel Map to merge two parcels into one parcel on Station Block 5; and,
+-Modification of previously approved (PA 07-054) Site Plan and Architectural Review Planning Application. 
+https://www.cityofsanmateo.org/3786/Bay-Meadows-II-SPAR-1-STA-1-5-Modificati
+</div>]]></description>
+			<gx:fid>0x0:0x0</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Bay Meadows II SPAR #1 STA 1 &amp; 5 Modification - PA17-074</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The Planning Commission held a public hearing on Tuesday, September 25, 2018 at 7:00 PM and approved (3-0) the following: 
+-Addendum to the Previously Certified Final Environmental Impact Report for the San Mateo Rail Corridor Plan &amp; Bay Meadows Specific Plan Amendment and Previously Certified Final EIR (4-18-05, 6-6-05, &amp; 11-7-05);
+-Tentative Parcel Map to merge two parcels into one parcel on Station Block 5; and,
+-Modification of previously approved (PA 07-054) Site Plan and Architectural Review Planning Application. 
+https://www.cityofsanmateo.org/3786/Bay-Meadows-II-SPAR-1-STA-1-5-Modificati
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3035136,37.5457208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_367F614FC9EE5F2D">
+			<name>Peninsula Heights - PA20-012</name>
+			<description><![CDATA[<div><b>name</b>: Peninsula Heights - PA20-012</div><div><b>description</b>: A formal Planning Application has been submitted for Peninsula Heights, a proposed 290-unit residential development. Required entitlements include a Special Use Permit (SUP) to permit residential uses in the E1 (Executive Office) zoning district; Site Plan and Architectural Review (SPAR) for construction of new residential buildings; Site Development Planning Application (SDPA) for grading and removal of vegetation; and a Vesting Tentative Map for the creation of condominium units.
+Peninsula Heights, located along Campus Drive, is located on two parcels totaling 15.45 acres. The project consists 290 for-sale units and proposes to devote 10% of the 290 units to the low-income category. The proposed architectural style is contemporary and includes townhome, single-family detached, and stacked flats building arrangements. A total of 625 on-site parking spaces are proposed, which include attached garages and residential guest parking.
+The applicant proposes to keep the existing emergency vehicle access (EVA) road connecting Campus Drive to 26th Avenue as an EVA. Publicly accessible improvements include a series of open parks and trails. The four existing office buildings that currently exist on the site are proposed for demolition. On December 8, 2020, the Planning Commission approved the project and adopted the Mitigated Negative Declaration by vote of 5-0.
+
+https://www.cityofsanmateo.org/4204/Peninsula-Heights
+</div>]]></description>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Peninsula Heights - PA20-012</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">A formal Planning Application has been submitted for Peninsula Heights, a proposed 290-unit residential development. Required entitlements include a Special Use Permit (SUP) to permit residential uses in the E1 (Executive Office) zoning district; Site Plan and Architectural Review (SPAR) for construction of new residential buildings; Site Development Planning Application (SDPA) for grading and removal of vegetation; and a Vesting Tentative Map for the creation of condominium units.
+Peninsula Heights, located along Campus Drive, is located on two parcels totaling 15.45 acres. The project consists 290 for-sale units and proposes to devote 10% of the 290 units to the low-income category. The proposed architectural style is contemporary and includes townhome, single-family detached, and stacked flats building arrangements. A total of 625 on-site parking spaces are proposed, which include attached garages and residential guest parking.
+The applicant proposes to keep the existing emergency vehicle access (EVA) road connecting Campus Drive to 26th Avenue as an EVA. Publicly accessible improvements include a series of open parks and trails. The four existing office buildings that currently exist on the site are proposed for demolition. On December 8, 2020, the Planning Commission approved the project and adopted the Mitigated Negative Declaration by vote of 5-0.
+
+https://www.cityofsanmateo.org/4204/Peninsula-Heights
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3273445,37.537993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_2D149CC543A54B6D">
+			<name>Kiku Crossing and 5th Avenue Garage - PA19-033, PA2020-055 &amp; 
+PA21-013</name>
+			<description><![CDATA[<div><b>name</b>: Kiku Crossing and 5th Avenue Garage - PA19-033, PA2020-055 & 
+PA21-013</div><div><b>description</b>: The City-Owned Downtown Affordable Housing and Parking Garage (aka Kiku Crossing and 5th Avenue Garage) development project will provide 225 affordable residential units in a seven-story building located on 480 E. 4th Avenue, and a five-level, above ground parking garage located at 400 E. 5th Avenue. The parking garage will provide 164 spaces for the tenants of the multi-family building and 526 public spaces. The project site consists of two city-owned parcels which served as public parking lots with a total of 235 parking spaces. 
+
+The project utilized provisions of Assembly Bill (AB) 1763, which allows for increased building height and density for housing developments located within a half-mile of a major transit stop and offering 100 percent of the total units to lower income households.
+
+The project, as proposed, consists of two buildings located on two parcels:
+
+A seven-story residential building (Kiku Crossing) comprised of 225 affordable rental units at 480 E. 4th Avenue.
+A five-level, above-ground parking garage (5th Avenue Garage) located at 400 E. 5th Avenue that will provide 164 spaces for the tenants of the multi-family building and 526 public spaces.
+The City Council selected MidPen Housing Corporation through a competitive RFP process in April 2018, to develop these sites.https://www.cityofsanmateo.org/4094/City-Owned-Downtown-Affordable-Housing-a</div>]]></description>
+			<gx:fid>0x808f9e7ae7b1c42b:0xa8f21c477d20a224</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Kiku Crossing and 5th Avenue Garage - PA19-033, PA2020-055 &amp; 
+PA21-013</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The City-Owned Downtown Affordable Housing and Parking Garage (aka Kiku Crossing and 5th Avenue Garage) development project will provide 225 affordable residential units in a seven-story building located on 480 E. 4th Avenue, and a five-level, above ground parking garage located at 400 E. 5th Avenue. The parking garage will provide 164 spaces for the tenants of the multi-family building and 526 public spaces. The project site consists of two city-owned parcels which served as public parking lots with a total of 235 parking spaces. 
+
+The project utilized provisions of Assembly Bill (AB) 1763, which allows for increased building height and density for housing developments located within a half-mile of a major transit stop and offering 100 percent of the total units to lower income households.
+
+The project, as proposed, consists of two buildings located on two parcels:
+
+A seven-story residential building (Kiku Crossing) comprised of 225 affordable rental units at 480 E. 4th Avenue.
+A five-level, above-ground parking garage (5th Avenue Garage) located at 400 E. 5th Avenue that will provide 164 spaces for the tenants of the multi-family building and 526 public spaces.
+The City Council selected MidPen Housing Corporation through a competitive RFP process in April 2018, to develop these sites.https://www.cityofsanmateo.org/4094/City-Owned-Downtown-Affordable-Housing-a</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3198308,37.5652742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_KLUMGJXGBAI80B86E52C93B77330">
+			<name>Station Park Green Development - PA14-055</name>
+			<description><![CDATA[<div><b>name</b>: Station Park Green Development - PA14-055</div><div><b>description</b>: Formal application for Site Plan & Architectural Review (SPAR), Site Development Permit (SDP) and Parcel Map for design details of a mixed-use transit oriented development with office, retail residential and public use facilities, including parks. A Specific Plan, Design Guidelines, Development Agreement and Mitigated Negative Declaration were previously approved for this project. While these approvals have been granted, the specific design of buildings and public improvements were not detailed at that time. The present formal application submittal is for the review of these details in addition to amendments to the Specific Plan and Design Guidelines.
+
+ https://www.cityofsanmateo.org/2808/Station-Park-Green-Application
+</div>]]></description>
+			<gx:fid>0x808f9ef43daad1c7:0x6a7a7ca23b2ca8c1</gx:fid>
+			<styleUrl>#__managed_style_03EE9784FA3086A2860C</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Station Park Green Development - PA14-055</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">Formal application for Site Plan &amp; Architectural Review (SPAR), Site Development Permit (SDP) and Parcel Map for design details of a mixed-use transit oriented development with office, retail residential and public use facilities, including parks. A Specific Plan, Design Guidelines, Development Agreement and Mitigated Negative Declaration were previously approved for this project. While these approvals have been granted, the specific design of buildings and public improvements were not detailed at that time. The present formal application submittal is for the review of these details in addition to amendments to the Specific Plan and Design Guidelines.
+
+ https://www.cityofsanmateo.org/2808/Station-Park-Green-Application
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.306675,37.554395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_28FEC5D040C7C93C">
+			<name>Underground Flow Equalization System (UFES) - PA18-010</name>
+			<description><![CDATA[<div><b>name</b>: Underground Flow Equalization System (UFES) - PA18-010</div><div><b>description</b>: The City of San Mateo is implementing a series of capital projects, referred to collectively as the Clean Water Program (CWP), to replace aging wastewater infrastructure, build wet weather capacity, comply with regulatory requirements, and align with the City’s sustainability goals. In adopting the 2016 Final Program EIR for the CWP, the City Council selected the “In-System Storage Program” alternative. The Underground Flow Equalization System (UFES) project, consistent with the Council’s selected program alternative, will provide the wastewater system capacity to comply with regulations requiring prevention of sanitary system overflows.
+This project consists of a concrete holding structure, pump station, diversion sewers and force main, and on odor control equipment room. These facilities would be located underground. Access hatches, an emergency backup generator, and an electrical building and vents for treated air would be located at ground level. The proposed project will provide for short-term storage of wastewater to prevent sanitary sewer overflows during wet weather. On July 17, 2017, the City Council selected the San Mateo County Event Center parking lot as the preferred location for the project. A Final Environmental Impact Report (Final EIR) has been prepared to specifically identify and analyze the anticipated environmental impacts of the Underground Flow Equalization System (UFES) project. The Final EIR includes responses to the comments received on the Draft EIR, as well as any amendments needed to the Draft EIR in response to comments. The project will require a Special Use Permit for a public service use in the “A” Agricultural District and a Site Plan & Architectural Review (SPAR) for structures and walls over six feet in height.
+
+On September 24, 2019, the City of San Mateo Planning Commission recommended City Council approval of the Special Use Permit, Site Plan and Architectural Review and certification of the Final EIR. This included the Mitigation Monitoring and Reporting Program and adoption of a Statement of Overriding Considerations regarding construction noise impacts. On October 21, 2019, by vote of 5-0, the City Council held a Public Hearing and adopted the Resolution to approve the City of San Mateo Underground Flow Equalization System, certify the final Environmental Impact Report, and adopt California Environmental Quality Act Findings, Statement of Overriding Considerations, and Mitigation Monitoring and Reporting Program.  
+
+https://www.cityofsanmateo.org/4009/Underground-Flow-Equalization-System
+</div>]]></description>
+			<gx:fid>0x808f9efcf05410f9:0xc1baf11c49852bf9</gx:fid>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Underground Flow Equalization System (UFES) - PA18-010</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The City of San Mateo is implementing a series of capital projects, referred to collectively as the Clean Water Program (CWP), to replace aging wastewater infrastructure, build wet weather capacity, comply with regulatory requirements, and align with the City’s sustainability goals. In adopting the 2016 Final Program EIR for the CWP, the City Council selected the “In-System Storage Program” alternative. The Underground Flow Equalization System (UFES) project, consistent with the Council’s selected program alternative, will provide the wastewater system capacity to comply with regulations requiring prevention of sanitary system overflows.
+This project consists of a concrete holding structure, pump station, diversion sewers and force main, and on odor control equipment room. These facilities would be located underground. Access hatches, an emergency backup generator, and an electrical building and vents for treated air would be located at ground level. The proposed project will provide for short-term storage of wastewater to prevent sanitary sewer overflows during wet weather. On July 17, 2017, the City Council selected the San Mateo County Event Center parking lot as the preferred location for the project. A Final Environmental Impact Report (Final EIR) has been prepared to specifically identify and analyze the anticipated environmental impacts of the Underground Flow Equalization System (UFES) project. The Final EIR includes responses to the comments received on the Draft EIR, as well as any amendments needed to the Draft EIR in response to comments. The project will require a Special Use Permit for a public service use in the “A” Agricultural District and a Site Plan &amp; Architectural Review (SPAR) for structures and walls over six feet in height.
+
+On September 24, 2019, the City of San Mateo Planning Commission recommended City Council approval of the Special Use Permit, Site Plan and Architectural Review and certification of the Final EIR. This included the Mitigation Monitoring and Reporting Program and adoption of a Statement of Overriding Considerations regarding construction noise impacts. On October 21, 2019, by vote of 5-0, the City Council held a Public Hearing and adopted the Resolution to approve the City of San Mateo Underground Flow Equalization System, certify the final Environmental Impact Report, and adopt California Environmental Quality Act Findings, Statement of Overriding Considerations, and Mitigation Monitoring and Reporting Program.  
+
+https://www.cityofsanmateo.org/4009/Underground-Flow-Equalization-System
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.3036721,37.5463977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6653134f_1AA1734BCBCD34AF">
+			<name>Wastewater Treatment Plant Upgrade - 2050 Detroit Drive - PA17-075</name>
+			<description><![CDATA[<div><b>name</b>: Wastewater Treatment Plant Upgrade - 2050 Detroit Drive - PA17-075</div><div><b>description</b>: The project involves the modernization, expansion, and upgrade of the City’s wastewater treatment plant facility. The project will involve changes to the existing facility as well as the construction of new components adjacent to the existing site. Some of the older facilities of the existing treatment plant will be removed or be re-purposed. The project includes the completion of a pedestrian path around the treatment plant from Dale Avenue to John Lee Dog Park, modifications to the existing landscaping along East 3rd Avenue, and the closure of portion of Detroit Drive.
+https://www.cityofsanmateo.org/3653/2050-Detroit---Wastewater-Treatment-Plan
+</div>]]></description>
+			<styleUrl>#__managed_style_057CE99B9D3086A28608</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#__managed_schema">
+					<SimpleData name="str:bmFtZQ==">Wastewater Treatment Plant Upgrade - 2050 Detroit Drive - PA17-075</SimpleData>
+					<SimpleData name="str:ZGVzY3JpcHRpb24=">The project involves the modernization, expansion, and upgrade of the City’s wastewater treatment plant facility. The project will involve changes to the existing facility as well as the construction of new components adjacent to the existing site. Some of the older facilities of the existing treatment plant will be removed or be re-purposed. The project includes the completion of a pedestrian path around the treatment plant from Dale Avenue to John Lee Dog Park, modifications to the existing landscaping along East 3rd Avenue, and the closure of portion of Detroit Drive.
+https://www.cityofsanmateo.org/3653/2050-Detroit---Wastewater-Treatment-Plan
+</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2964996,37.5690003,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="6653134f_5">
+		<name>Appeals, On-Hold, Withdrawn</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+	</Folder>
+	<Folder id="6653134f_6">
+		<name>Untitled layer</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_07805196193086A285EA</styleUrl>
+	</Folder>
+</Document>
+</kml>
